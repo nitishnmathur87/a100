@@ -461,3 +461,20 @@
         #contactXS .twitter:hover { color: #2094CA; }
 
         #contactXS .mail:hover { color: #f39c12; }
+/* Accordion*/
+.panel-heading a:hover,
+{
+  color: #F6F6F6;
+}
+.panel-heading a,
+.panel-heading a:focus {
+    text-decoration: none;
+    color: #006496;
+}
+.accText
+{
+  Background: #006496;
+}
+
+
+
