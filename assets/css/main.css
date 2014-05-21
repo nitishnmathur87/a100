@@ -462,9 +462,9 @@
 
         #contactXS .mail:hover { color: #f39c12; }
 /* Accordion*/
-.panel-heading a:hover,
+.panel-heading a:hover
 {
-  color: #F6F6F6;
+  color: #777;
 }
 .panel-heading a,
 .panel-heading a:focus {
