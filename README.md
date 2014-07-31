@@ -4,31 +4,16 @@ a100
 A100 website (based off Team C++'s original).
 
 
-Please fork a copy of this repo into a directory that all members of your team (including me) have read/wrote access to,
-and add a note to this README with your team name.
-
-By Thursday, each member of the team should add their name and gitHub account name below under your team and push to your private repo.
-
-
-Team A:
-_______
-
-
-
-
-Team B:
-_______
-
-
-
-
-Team C:
-_______
+Team Cup of Java:
+_________________
 Blake Praharaj: blakekp
 
 Nitish Mathur: nitishnmathur87
 
+Solomon Li:
 
+
+Added features such as photo gallery, updated the CSS3 logo, updated the Independent Software logo, implementation of a Modal, inserting a terms and conditions document, adding a new FAQ section on the webpage, made the partner companies section, 
 
 
 
